@@ -7,4 +7,4 @@ level3: https://share.cryptozombies.io/en/lesson/3/share/rohit?id=Y3p8NTk2MDY0
 
 level4: https://share.cryptozombies.io/en/lesson/4/share/rohit?id=WyJjenw1OTYwNjQiLDEsMTRd
 
-level5: https://share.cryptozombies.io/en/lesson/5/share/H4XF13LD_MORRIS_%F0%9F%92%AF%F0%9F%92%AF%F0%9F%98%8E%F0%9F%92%AF%F0%9F%92%AF?id=Y3p8NTk2MDY0
+level5: https://share.cryptozombies.io/en/lesson/5/share/H4XF13LD_MORRIS?id=Y3p8NTk2MDY0
